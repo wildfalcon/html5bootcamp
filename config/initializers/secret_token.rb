@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Html5bootcamp::Application.config.secret_token = '3eb3de94bf5ca110e53b26d5f3aaccb685f9bebfd8b26fc0c3e2b8d63f3c042156bf17c16863ee7f486b574dcf69bd13fb332bcd0e60fce2d08756a4ef9f85e9'
+Html5bootcamp::Application.config.secret_token = '050e3ecb0f5e5129942a270c2db1ec86506e4a87770b8943785291b0776460bea2a53b3ee4e3c1937da1052145afd81f7fd5a3818c247d4d3372a24716e7725f'
